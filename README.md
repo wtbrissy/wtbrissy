@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**wtbrissy/wtbrissy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⛏ I’m currently working at Rio Tinto as a Research Scientist 
+- 🌱 I’m currently learning:
+	- Python 3 Programming Specialisation 
+	- Data Structure and Algorithm
+- 💬 Ask me about :
+	- Industry 4.0 
+	- Research Methodology 
+	- Productivity Tools: Notion, and Bear
+- ⚡ Fun fact: 
+	- Lego Fan 
+	- Xbox Person 
+	- 2 cats 🐈 
