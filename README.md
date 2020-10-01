@@ -11,9 +11,3 @@
 	- Industry 4.0 
 	- Research Methodology 
 	- Productivity Tools: Notion, and Bear
-	
-- **⚡ Fun fact :**
-	- Lego Fan 
-	- Xbox Person 
-	- 2 cats 🐈 
-
