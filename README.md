@@ -3,9 +3,8 @@
 - **⛏ I’m currently working at :**
 	-  Rio Tinto as a Research Scientist 
 	
-- **🌱 I’m currently learning :**
-	- Python 3 Programming Specialisation 
-	- Data Structure and Algorithm
+- **🌱 I’m currently studying :**
+	- Computer Science at Georgia Tech
 	
 - **💬 Ask me about :**
 	- Industry 4.0 
